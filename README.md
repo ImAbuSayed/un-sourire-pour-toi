@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-sourire-pour-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Un Sourire Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-sourire-pour-toi/) |
+| **Get License** | [Music Rights & Licensing for Un Sourire Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-sourire-pour-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Juste un sourire pour toi, et je perds la tête ce soir
+> Ton parfum dans l'air, c'est ma drogue dans le noir
+> Viens un peu plus près, je te veux pour moi maintenant
+> Un sourire pour toi, et le temps s'arrête un instant
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
