@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Sourire Pour Toi
+
+This log tracks the cryptographic history and versioning for the song **Un Sourire Pour Toi** (un-sourire-pour-toi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T01:45:01.134112 | `v1` | `a75393b20bbf7ff03b7640967ff00ff2d5654f8621ecce73f9eb9f5dab6e27b8` | `01f8d05e7803be324f7e1c4b85415cb4e89b6e4108bf2c58dfe832deee3e8272` | `2026-06-26_un-sourire-pour-toi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
